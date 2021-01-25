@@ -1,5 +1,7 @@
 # MulterApplication
 
+First visit [my blog 'Every drop of Multer Module'](https://medium.com/@rajkothari634) on medium to get complete information about multer npm module.
+
 In routes/file, there are 6 routes as follows :-
 
 1) /saveAtDest :-
